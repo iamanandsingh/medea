@@ -17,6 +17,12 @@
           (root + /medea.cabal)
           (root + /LICENSE.md)
           (root + /README.md)
+          (root + /.hspec)
+          (root + /CHANGELOG.md)
+          (root + /SPEC.md)
+          (root + /TUTORIAL.md)
+          (root + /conformance)
+          (root + /test)
         ];
       });
 
